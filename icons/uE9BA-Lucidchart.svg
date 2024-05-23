@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="v" data-name="Lucidchart">
+    <path d="m12.62,22.52v27.26l23.58,13.63v-6.81l-17.68-10.22v-20.44l-5.89-3.41Z" fill="#f96b13" stroke-width="0"/>
+    <path d="m53.88,25.92v27.26l5.9-3.41v-27.26l-5.9,3.41Z" fill="#cc4e00" stroke-width="0"/>
+    <path d="m30.31,12.3l23.57,13.63,5.9-3.41-23.58-13.63-5.89,3.41Z" fill="#ffca73" stroke-width="0"/>
+    <path d="m12.62,22.52l5.89,3.41,5.89-3.41-5.89-3.41-5.89,3.41Z" fill="#ffca73" stroke-width="0"/>
+    <path d="m18.52,25.92v20.44l5.89-3.41v-20.44l-5.89,3.41Z" fill="#cc4e00" stroke-width="0"/>
+    <path d="m36.2,56.59v6.81l5.89-3.41v-6.81l-5.89,3.41Z" fill="#cc4e00" stroke-width="0"/>
+    <path d="m18.52,46.36l17.68,10.22,5.89-3.41-17.68-10.22-5.89,3.41Z" fill="#ffca73" stroke-width="0"/>
+    <path d="m30.31,12.3v6.81l17.68,10.22v20.44s5.89,3.41,5.89,3.41v-27.26l-23.57-13.63Z" fill="#f96b13" stroke-width="0"/>
+  </g>
+  <g id="ay" data-name="Rectangles">
+    <rect x=".36" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>

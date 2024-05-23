@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="z" data-name="Help Scout">
+    <path d="m34.46,23.46c3.92-4.04,3.92-10.59,0-14.63l-18.15,18.69c-3.92,4.04-3.92,10.59,0,14.63l18.15-18.69Zm-18.11,39.96c-3.92-4.04-3.92-10.59,0-14.63L55.15,8.83c3.92,4.04,3.92,10.59,0,14.63L16.35,63.41Zm20.65.15c-3.92-4.04-3.92-10.59,0-14.63l18.15-18.69c3.92,4.04,3.92,10.59,0,14.63l-18.15,18.69Z" fill="#304ddb" fill-rule="evenodd" stroke-width="0"/>
+  </g>
+  <g id="ay" data-name="Rectangles">
+    <rect x=".36" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>

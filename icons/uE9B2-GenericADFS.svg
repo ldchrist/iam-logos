@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="ad" data-name="Generic ADFS">
+    <path d="m61.31,36.84h-28.76v20.76l28.76,4.18v-24.94Zm-30.62,0H9.35v17.4l21.34,3.1v-20.49Zm30.62-27.02l-28.76,4.11v21.06h28.76V9.81Zm-30.62,4.37l-21.34,3.05v17.75h21.34V14.19Z" fill="#00aaf2" stroke-width="0"/>
+  </g>
+  <g id="ay" data-name="Rectangles">
+    <rect x=".36" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>

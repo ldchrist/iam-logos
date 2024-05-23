@@ -1,0 +1,142 @@
+@import "../scss/ias-styles/ias-variables";
+
+:host {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.ias-page-content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+
+    margin: 25px;
+
+    .action-bar {
+        display: flex;
+        align-items: center;
+
+        .iam-search {
+            width: 266px;
+        }
+
+        .flex-spacer {
+            flex-grow: 1;
+        }
+    }
+
+    .icon-count {
+        margin: 15px 0;
+    }
+}
+
+::ng-deep.iam-menu {
+    background-color: $ias-dark-gray;
+    border: 1px solid transparent;
+    box-shadow: none;
+    border-radius: 3px;
+    color: $ias-light-gray;
+    padding: 5px 0;
+    margin: 2px 0 0;
+
+    > .ux-menu-item {
+        display: flex;
+        align-items: center;
+        &:not(.disabled) {
+            color: $ias-light-gray;
+        }
+
+        &:hover {
+            background-color: $ias-darker-gray;
+            color: $ias-light-gray;
+        }
+
+        > .dropdown-menu-icon.ias-icon {
+            display: flex;
+            font-size: 1.6rem;
+            line-height: 1em;
+            vertical-align: middle;
+            height: 1em;
+            width: 1em;
+        }
+
+        > .dropdown-menu-hint {
+            color: $ias-gray;
+        }
+    }
+
+    > ux-menu-divider {
+        border-bottom-color: $ias-medium-gray;
+    }
+
+    > h4 {
+        color: #bdbec0;
+        margin: 10px 15px;
+        cursor: default;
+    }
+
+    &.iam-complex-menu {
+        margin-left: 2px;
+    }
+}
+
+::ng-deep .ias-icon-color-blue {
+    color: $ias-blue-4;
+}
+
+::ng-deep ux-notification-list {
+    width: 340px;
+
+    & .notification {
+        width: 340px;
+        padding: 10px 0;
+        display: flex;
+
+        > .copy-notification {
+            display: inline-flex;
+            align-items: center;
+            margin: 0px 10px 0px 10px;
+            > .ias-icon {
+                display: flex;
+                font-size: 35px;
+            }
+
+            > .notification-description {
+                font-size: 20px;
+                margin: 0px 0px 0px 10px;
+            }
+
+            > .dismiss-notification {
+                color: #fff;
+                font-size: 25px;
+                cursor: pointer;
+                background-color: transparent;
+                border: none;
+                margin-left: 50px;
+                outline: none;
+
+                > .ias-icon {
+                    display: flex;
+                }
+            }
+        }
+    }
+}
+
+::ng-deep .modal-body {
+    .modal-body-subtitle {
+        font-size: large;
+    }
+
+    & > .icon-usage {
+        margin-bottom: 10px;
+
+        & > .icon-uses {
+            background: #f5f2f0;
+            padding: 1em;
+            margin: 0.5em 0;
+            overflow: auto;
+        }
+    }
+}

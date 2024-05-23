@@ -1,0 +1,198 @@
+{
+    "4me": {
+        "uses": "",
+        "notes": "Enterprise Service Management"
+    },
+    "Accellion": {
+        "uses": "",
+        "notes": "Kiteworks"
+    },
+    "Aha!": {
+        "uses": "",
+        "notes": "Build Product Roadmaps"
+    },
+    "alertops": {
+        "uses": "",
+        "notes": "Break through workflow barriers"
+    },
+    "Assembla": {
+        "uses": "",
+        "notes": "Flexible Source Code Management"
+    },
+    "Atlassian": {
+        "uses": "",
+        "notes": "Agile Tools for Agile Teams"
+    },
+    "aws": {
+        "uses": "",
+        "notes": "Amazon Web Services"
+    },
+    "BambooHR": {
+        "uses": "",
+        "notes": "HR Software as a Service"
+    },
+    "Birst": {
+        "uses": "",
+        "notes": "Business Intelligence and Analytics"
+    },
+    "Bomgar": {
+        "uses": "",
+        "notes": "Secure Privileged Access Management"
+    },
+    "box": {
+        "uses": "",
+        "notes": "Cloud-based Content Management"
+    },
+    "breezy": {
+        "uses": "",
+        "notes": "Cloud-based Applicant Tracking"
+    },
+    "citrix": {
+        "uses": "",
+        "notes": "Server, Application and Desktop Virtualization"
+    },
+    "DocuSign": {
+        "uses": "",
+        "notes": "Electronic Signature and Agreements"
+    },
+    "Domo": {
+        "uses": "",
+        "notes": "Data Experience Platform"
+    },
+    "Dropbox": {
+        "uses": "",
+        "notes": "Cloud-based File Storage and Sharing"
+    },
+    "Envoy": {
+        "uses": "",
+        "notes": "Secure, seamless visitor check-in"
+    },
+    "Freshdesk": {
+        "uses": "",
+        "notes": "Freshworks cloud-based SaaS"
+    },
+    "GenericADFS": {
+        "uses": "",
+        "notes": "Generic Active Directory Federated Services"
+    },
+    "Github": {
+        "uses": "",
+        "notes": "Create, store, manage and share code"
+    },
+    "Google": {
+        "uses": "",
+        "notes": "Cloud-based software"
+    },
+    "GoogleApps": {
+        "uses": "",
+        "notes": "Cloud-based Business Applications"
+    },
+    "HelpScout": {
+        "uses": "",
+        "notes": "Email-based customer support platform"
+    },
+    "Insightly": {
+        "uses": "",
+        "notes": "Customer Relationship Management"
+    },
+    "Jive": {
+        "uses": "",
+        "notes": "Employee Engagement Software"
+    },
+    "LogMeIn": {
+        "uses": "",
+        "notes": "Simple, Secure Remote Access"
+    },
+    "Lucidchart": {
+        "uses": "",
+        "notes": "Web-based Diagramming Application"
+    },
+    "Microsoft365": {
+        "uses": "",
+        "notes": "Cloud-based family of Productivity Applications"
+    },
+    "MuleSoft": {
+        "uses": "",
+        "note": "Connecting Applications, Data and Devices"
+    },
+    "NetIQaccessManager": {
+        "uses": "",
+        "notes": "On-prem and Cloud-based Secure Access Management"
+    },
+    "Nextcloud": {
+        "uses": "",
+        "notes": "Open Source Content Collaboration Platform"
+    },
+    "Opsgenie": {
+        "uses": "",
+        "notes": "Alert and On-call Management Support"
+    },
+    "PagerDuty": {
+        "uses": "",
+        "notes": "Incident Response SaaS"
+    },
+    "pipedrive": {
+        "uses": "",
+        "notes": "Sales CRM and Pipeline Management"
+    },
+    "proxyclick": {
+        "uses": "",
+        "notes": "Secure Visitor check-in and check-out"
+    },
+    "Salesforce": {
+        "uses": "",
+        "notes": "Cloud-based Customer Relationship Management"
+    },
+    "Samanage": {
+        "uses": "",
+        "notes": "Enterprise service-desk and IT asset-management"
+    },
+    "servicenow": {
+        "uses": "",
+        "notes": "Cloud-based digital workflows management for enterprise operations"
+    },
+    "SpokePhone": {
+        "uses": "",
+        "notes": "Business phone calls, SMS, and WhatsApp conversations"
+    },
+    "Syncplicity": {
+        "uses": "",
+        "notes": "Hybrid file sharing and storage"
+    },
+    "Tableau": {
+        "uses": "",
+        "notes": "Interactive Data Visualization"
+    },
+    "ThousandEyes": {
+        "uses": "",
+        "notes": "Analyzes the performance of local and wide area networks"
+    },
+    "VictorOps": {
+        "uses": "",
+        "notes": "On-call and Alert data routing"
+    },
+    "VMwareVCloud": {
+        "uses": "",
+        "notes": "Enterprise cloud infrastructure and management"
+    },
+    "vTiger": {
+        "uses": "",
+        "notes": "Customer Relationship Management"
+    },
+    "webex": {
+        "uses": "",
+        "notes": "web and video conferencing"
+    },
+    "Workday": {
+        "uses": "",
+        "notes": "Enterprise finance, HR, planning, spend management, and analytics"
+    },
+    "Zendesk": {
+        "uses": "",
+        "notes": "Customer Experience software"
+    },
+    "ZOHO": {
+        "uses": "",
+        "notes": "Web-based office suite business tools"
+    }
+}

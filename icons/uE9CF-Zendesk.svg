@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="b" data-name="Zendesk">
+    <g>
+      <path d="m33.99,25.63v30.22H8.96l25.03-30.22Z" fill="#16140c" fill-rule="evenodd" stroke-width="0"/>
+      <path d="m33.99,14.78c0,6.91-5.6,12.52-12.52,12.52s-12.52-5.6-12.52-12.52h25.03Z" fill="#16140c" fill-rule="evenodd" stroke-width="0"/>
+      <path d="m38.11,55.85c0-6.91,5.6-12.52,12.52-12.52s12.51,5.6,12.51,12.52h-25.03Z" fill="#16140c" fill-rule="evenodd" stroke-width="0"/>
+      <path d="m38.11,45V14.78h25.03l-25.03,30.22Z" fill="#16140c" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="ay" data-name="Rectangles">
+    <rect x=".36" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>

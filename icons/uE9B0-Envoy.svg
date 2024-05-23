@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <mask id="ag" data-name="mask" x="13.55" y="9.41" width="44.84" height="53.15" maskUnits="userSpaceOnUse">
+      <g id="ah" data-name="mask0 4213 7265">
+        <path d="m13.55,9.41h44.84v53.15H13.55V9.41Z" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
+      </g>
+    </mask>
+  </defs>
+  <g id="af" data-name="Envoy">
+    <path d="m29.75,24.88h12.04c1.04,0,1.88-.84,1.88-1.88s-.84-1.88-1.88-1.88h-12.04c-1.04,0-1.88.84-1.88,1.88s.84,1.88,1.88,1.88Z" fill="#fa4338" fill-rule="evenodd" stroke-width="0"/>
+    <g mask="url(#ag)">
+      <path d="m54.64,56.71c0,1.16-.94,2.11-2.11,2.11H19.41c-1.16,0-2.11-.94-2.11-2.11V15.27c0-1.16.94-2.11,2.11-2.11h33.12c1.16,0,2.11.94,2.11,2.11v41.44Zm-1.01-47.3H18.31c-2.63,0-4.76,2.13-4.76,4.76v43.63c0,2.63,2.13,4.76,4.76,4.76h35.32c2.63,0,4.76-2.13,4.76-4.76V14.17c0-2.63-2.13-4.76-4.76-4.76Z" fill="#fa4338" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+    <path d="m42.14,47.1h-10.52v-4.83h5.97c1.04,0,1.88-.84,1.88-1.88s-.84-1.88-1.88-1.88h-5.97v-4.5h10.06c1.04,0,1.88-.84,1.88-1.88s-.84-1.88-1.88-1.88h-11.94c-1.04,0-1.88.84-1.88,1.88v16.83c0,1.04.84,1.88,1.88,1.88h12.4c1.04,0,1.88-.84,1.88-1.88s-.84-1.88-1.88-1.88Z" fill="#fa4338" fill-rule="evenodd" stroke-width="0"/>
+  </g>
+  <g id="ba" data-name="Rectangles">
+    <rect x=".51" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>

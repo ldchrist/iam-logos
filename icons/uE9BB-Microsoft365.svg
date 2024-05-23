@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <radialGradient id="v" cx="-209.06" cy="1154.22" fx="-209.06" fy="1154.22" r="1.22" gradientTransform="translate(-65324.37 -17002.57) rotate(110.53) scale(33.37 -58.2)" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#ae7fe2"/>
+      <stop offset="1" stop-color="#0078d4"/>
+    </radialGradient>
+    <linearGradient id="w" x1="35.7" y1="1465.71" x2="29.91" y2="1475.71" gradientTransform="translate(0 1514) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#114a8b"/>
+      <stop offset="1" stop-color="#0078d4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="x" cx="-188.81" cy="1168.25" fx="-188.81" fy="1168.25" r="1.22" gradientTransform="translate(9306.53 22904.47) rotate(-8.37) scale(31.05 -20.51)" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#d59dff"/>
+      <stop offset="1" stop-color="#5e438f"/>
+    </radialGradient>
+    <linearGradient id="y" x1="49.91" y1="1480.6" x2="43.71" y2="1471.7" gradientTransform="translate(0 1514) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#493474"/>
+      <stop offset="1" stop-color="#8c66ba" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="z" cx="-201.83" cy="1143.7" fx="-201.83" fy="1143.7" r="1.22" gradientTransform="translate(6974.37 -47709.71) rotate(-165.77) scale(24.92 -41.96)" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#50e6ff"/>
+      <stop offset="1" stop-color="#436dcd"/>
+    </radialGradient>
+    <linearGradient id="aa" x1="27.41" y1="1487.26" x2="36.54" y2="1487.26" gradientTransform="translate(0 1514) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d3f80"/>
+      <stop offset="1" stop-color="#436dcd" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="u" data-name="Microsoft 365">
+    <path d="m31.18,10.36l-.27.17c-.43.26-.84.56-1.23.88l.79-.55h6.69l1.22,9.2-6.08,6.08-6.08,4.22v4.87c0,3.4,1.78,6.56,4.69,8.32l6.4,3.87-13.52,7.89h-2.61l-4.86-2.94c-2.91-1.76-4.69-4.92-4.69-8.32v-16.38c0-3.4,1.78-6.56,4.69-8.32l14.59-8.82c.09-.05.18-.11.27-.16Z" fill="url(#v)" stroke-width="0"/>
+    <path d="m31.18,10.36l-.27.17c-.43.26-.84.56-1.23.88l.79-.55h6.69l1.22,9.2-6.08,6.08-6.08,4.22v4.87c0,3.4,1.78,6.56,4.69,8.32l6.4,3.87-13.52,7.89h-2.61l-4.86-2.94c-2.91-1.76-4.69-4.92-4.69-8.32v-16.38c0-3.4,1.78-6.56,4.69-8.32l14.59-8.82c.09-.05.18-.11.27-.16Z" fill="url(#w)" stroke-width="0"/>
+    <path d="m45.67,29.78v5.45c0,3.4-1.78,6.56-4.69,8.32l-14.59,8.83c-2.98,1.81-6.7,1.87-9.73.2l14.25,8.62c3.1,1.87,6.98,1.87,10.07,0l14.59-8.83c2.91-1.76,4.69-4.92,4.69-8.32v-3.93l-1.22-1.82-13.37-8.51Z" fill="url(#x)" stroke-width="0"/>
+    <path d="m45.67,29.78v5.45c0,3.4-1.78,6.56-4.69,8.32l-14.59,8.83c-2.98,1.81-6.7,1.87-9.73.2l14.25,8.62c3.1,1.87,6.98,1.87,10.07,0l14.59-8.83c2.91-1.76,4.69-4.92,4.69-8.32v-3.93l-1.22-1.82-13.37-8.51Z" fill="url(#y)" stroke-width="0"/>
+    <path d="m55.56,19.34l-14.59-8.82c-3-1.81-6.73-1.87-9.78-.17l-.29.18c-2.91,1.76-4.69,4.92-4.69,8.32v11.53l4.69-2.84c3.09-1.87,6.97-1.87,10.07,0l14.59,8.82c2.82,1.71,4.58,4.72,4.69,8,0-.11,0-.21,0-.32v-16.38c0-3.4-1.78-6.56-4.69-8.32Z" fill="url(#z)" stroke-width="0"/>
+    <path d="m55.56,19.34l-14.59-8.82c-3-1.81-6.73-1.87-9.78-.17l-.29.18c-2.91,1.76-4.69,4.92-4.69,8.32v11.53l4.69-2.84c3.09-1.87,6.97-1.87,10.07,0l14.59,8.82c2.82,1.71,4.58,4.72,4.69,8,0-.11,0-.21,0-.32v-16.38c0-3.4-1.78-6.56-4.69-8.32Z" fill="url(#aa)" stroke-width="0"/>
+  </g>
+  <g id="be" data-name="Rectangles">
+    <rect x=".36" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="at" data-name="New Gradient Swatch 1" x1="15.22" y1="63.63" x2="33.31" y2="12.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7cb7e4"/>
+      <stop offset="1" stop-color="#afd6f1"/>
+    </linearGradient>
+    <linearGradient id="au" data-name="New Gradient Swatch 2" x1="37.72" y1="9.52" x2="56.61" y2="63" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d3e9f8"/>
+      <stop offset="1" stop-color="#90c4ea"/>
+    </linearGradient>
+  </defs>
+  <g id="as" data-name="Assembla">
+    <polygon points="31.57 8.76 28.67 8.76 9.6 63.15 21.49 63.15 36.07 21.58 31.57 8.76" fill="url(#at)" stroke-width="0"/>
+    <polygon points="43.46 8.76 31.57 8.76 50.65 63.15 62.53 63.15 43.46 8.76" fill="url(#au)" stroke-width="0"/>
+  </g>
+  <g id="ba" data-name="Rectangles">
+    <rect x=".36" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>

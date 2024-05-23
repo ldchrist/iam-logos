@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="ar" data-name="Atlassian">
+    <g id="as" data-name="mini-icon-onecolor-blue-atlassian">
+      <g id="at" data-name="Group">
+        <path id="au" data-name="Vector" d="m24.52,33.85c-.25-.33-.75-.5-1.17-.5-.33.08-.67.33-.83.67l-13.67,27.42c-.33.58-.08,1.33.5,1.58.17.08.33.17.5.17h19.09c.42,0,.92-.25,1.08-.67,4-8.25,1.5-21.17-5.5-28.67Z" fill="#0052cc" stroke-width="0"/>
+        <path id="av" data-name="Vector 2" d="m63.53,61.43c-.25-.5-25.67-51.34-26.25-52.59-.17-.33-.5-.58-.92-.67h-.08c-.42,0-.83.25-1.08.67-6.92,10.92-7.67,24.09-2.08,35.26l9.17,18.42c.17.42.58.67,1.08.67h19.09c.67,0,1.17-.5,1.17-1.17.08-.25,0-.42-.08-.58Z" fill="#0052cc" stroke-width="0"/>
+      </g>
+    </g>
+  </g>
+  <g id="bc" data-name="Rectangles">
+    <rect x=".36" y=".36" width="71.28" height="71.28" fill="none" stroke-width="0"/>
+  </g>
+</svg>
