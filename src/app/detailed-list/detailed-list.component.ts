@@ -50,7 +50,7 @@ export class DetailedListComponent implements OnInit {
 
     downloadIconSVG(): void {
         this.fileUrl =
-            'https://github.com/MicroFocus/ias-icons/blob/master/icons/' +
+            'https://github.com/MicroFocus/iam-logos/blob/master/icons/' +
             this.iconSVGFileName;
         window.open(this.fileUrl);
         this.modalRef.hide();

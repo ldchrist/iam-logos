@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('ias-icons app is running!');
+    expect(page.getTitleText()).toEqual('iam-logos app is running!');
   });
 
   afterEach(async () => {

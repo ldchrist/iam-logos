@@ -1,7 +1,7 @@
 {
   "name": "@microfocus/iam-logos",
   "version": "1.1.0",
-  "description": "Icon font for Logos of SAML and OAuth Connectors NetIQ Access products",
+  "description": "Icon font for Logos of SAML and OAuth Connectors for NetIQ Access products",
   "author": "Lynn Christensen <lchristensen@opentext.com>",
   "license": "MIT",
   "bugs": "https://github.com/microfocus/iam-logos/issues",

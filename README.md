@@ -1,4 +1,4 @@
-# Micro Focus ias-icons
+# Opentext Connector Logos
 
 This project is the icon font for SVG logos of Application connectors for Opentext Identity and Access products. The logos within the font represent SAML and OAuth Application connector templates available within Opentext products using the application's official logo in SVG format.
 
@@ -18,7 +18,7 @@ If you are building a project with Angular, you can add the following to your an
 
 ```
 "styles": [
-    "node_modules/@microfocus/ias-icons/dist/iam-logos/iam-logos.css",
+    "node_modules/@microfocus/iam-logos/dist/iam-logos/iam-logos.css",
     "src/styles.scss"
 ],
 ```
