@@ -9,7 +9,7 @@
 }
 
 {{baseSelector}}:before {
-    font-family: "ias-icons";
+    font-family: "iam-logos";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-style: normal;
